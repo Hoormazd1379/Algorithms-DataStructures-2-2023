@@ -1,3 +1,4 @@
+![Project Banner](.gfx/banner-root.png)
 # Algorithms and Data Structures II
 
 "Algorithms and Data Structures II" course for the Fall semester of 2023-2024 @ USI. This repository will serve as a hub for all course materials, including lecture notes, assignments, and additional resources. 
@@ -14,9 +15,10 @@
 
 ## Course Schedule
 - **Time:** Tuesdays 09:00 - 10:30
-- **Location:** D1.13
+- **Location:** C1.03 or D1.13
 
 ## Textbooks and Readings
+You can find the following course materials in the **resources** folder:
 - **Textbook:** "Introduction to Algorithms, 4th edition" by T.H. Cormen, C.E. Leiserson, R.L. Rivest, C. Stein, MIT Press, 2022.
 - **Other Readings:** "Algorithm Design" by J. Kleinberg and E. Tardos, Addison Wesley, 2013.
 
